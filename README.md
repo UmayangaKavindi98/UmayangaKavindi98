@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Umayanga Kavindi. <br>I am a Associate Software Quality Assurance Engineer at Cloud Solution International.<br><br>📫 How to reach me umayangakavindi98@gmail.com
+Hi 👋, I'm Umayanga Kavindi. <br>I am an Associate Software Quality Assurance Engineer at Cloud Solution International.<br><br>📫 How to reach me umayangakavindi98@gmail.com
 
 
 ## 🌐 Socials:
